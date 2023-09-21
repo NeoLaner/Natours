@@ -5,7 +5,7 @@
       rgba($color-white, 0.9) 50%,
       transparent 50%
     ),
-    url(../img/nat-10.jpg);
+    url(../img/nat-10.webp);
   background-size: cover;
 
   @include respond(tab-land) {
@@ -15,7 +15,7 @@
         rgba($color-white, 0.9) 60%,
         transparent 60%
       ),
-      url(../img/nat-10.jpg);
+      url(../img/nat-10.webp);
     margin: 0 2rem;
   }
 
@@ -25,7 +25,7 @@
         rgba($color-white, 0.9) 0%,
         rgba($color-white, 0.9) 100%
       ),
-      url(../img/nat-10.jpg);
+      url(../img/nat-10.webp);
     width: 70%;
     margin: 0 auto;
   }
